@@ -8,3 +8,13 @@ It can be used independently for loading Swagger UI 3.x under resources or can b
 
 Please refer to below link for more details:<br/>
 https://github.com/Vect0rPro/dropwizard-swagger
+
+To use it as a standalone library to load Swagger UI 3.x resources, add the Maven dependency (available in Maven Central)
+
+```xml
+<dependency>
+  <groupId>in.vectorpro</groupId>
+  <artifactId>dropwizard-swagger-ui</artifactId>
+  <version>3.51.1</version>
+</dependency>
+```
