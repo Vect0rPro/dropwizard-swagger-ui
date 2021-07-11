@@ -13,7 +13,7 @@ To use it as a standalone library to load Swagger UI 3.x resources, add the Mave
 
 ```xml
 <dependency>
-  <groupId>in.vectorpro</groupId>
+  <groupId>in.vectorpro.dropwizard</groupId>
   <artifactId>dropwizard-swagger-ui</artifactId>
   <version>3.51.1</version>
 </dependency>
