@@ -18,6 +18,6 @@ To use it as a standalone library to load Swagger UI 4.x resources, add the Mave
 <dependency>
   <groupId>in.vectorpro.dropwizard</groupId>
   <artifactId>dropwizard-swagger-ui</artifactId>
-  <version>4.6.2</version>
+  <version>4.19.1</version>
 </dependency>
 ```
