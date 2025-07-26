@@ -19,7 +19,7 @@
 
     <groupId>in.vectorpro.dropwizard</groupId>
     <artifactId>dropwizard-swagger-ui</artifactId>
-    <version>4.6.2</version>
+    <version>4.19.1</version>
 
     <name>Swagger UI 4.x Static Resources</name>
     <description>Swagger UI 4.x Static Resources for Dropwizard Swagger Integration</description>
