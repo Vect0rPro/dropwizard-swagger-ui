@@ -158,7 +158,7 @@
                     <execution>
                         <id>enforce</id>
                         <configuration>
-                            <fail>false</fail>
+                            <fail>true</fail>
                             <rules>
                                 <dependencyConvergence />
                                 <requireFilesExist>
@@ -168,7 +168,7 @@
                                 </requireFilesExist>
                                 <requireFileChecksum>
                                     <file>LICENSE</file>
-                                    <checksum>02a687cddc633ddf9219f231fab7ea753229293062b1e1ab2c57c8426188d6ff</checksum>
+                                    <checksum>52965201dab336f278d9ca6786e36b69cd0db6fbbac88d05923004518fe4166d</checksum>
                                     <type>sha256</type>
                                 </requireFileChecksum>
                             </rules>
